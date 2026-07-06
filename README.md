@@ -1,3 +1,5 @@
+# 🚧 Work in Progress
+
 # 🚀 LinkedIn-Style Backend – Scalable Microservices Architecture  
 
 A **scalable LinkedIn-style backend** built with **Java, Spring Boot, and Microservices**. The system integrates **Spring Cloud Gateway, Docker, Kubernetes, Redis, Kafka, and Cloud Storage** to deliver **secure, high-performance, and real-time communication** across services.  
@@ -28,7 +30,4 @@ This project is designed as a **blueprint for building enterprise-grade social m
 **Containerization:** Docker, Kubernetes  
 **Documentation:** Swagger / OpenAPI  
 
----
-
-## 📐 System Architecture  
 
